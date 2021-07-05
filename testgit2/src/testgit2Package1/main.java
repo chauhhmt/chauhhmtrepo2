@@ -6,6 +6,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.print("just add");
 		System.out.print("just add a new branch: branch-chaupc");
+		System.out.print("edit3 branch-chaupc");
 	}
 
 }
